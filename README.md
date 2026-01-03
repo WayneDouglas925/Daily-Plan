@@ -1,11 +1,14 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# The Re-Build: Identity-2026
 
-  <h1>Built with AI Studio</h2>
+Welcome to the premium identity management system. This application tracks your metabolic and circadian consistency.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Identity Metrics
+- **Equity**: Your current standing. Higher is better.
+- **HighWaterMark**: The peak discipline you've achieved.
+- **Debt**: The gap between your peak and your current state. Recover debt by remaining consistent.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Protocols
+- **OMAD**: 4-hour feeding window.
+- **ADF**: 36-hour fasting window.
+- **Circadian**: Respecting the light/dark cycle and the 3-hour pre-sleep kitchen closure.

@@ -24,7 +24,7 @@ import {
   Dumbbell,
   Sun
 } from 'lucide-react';
-import confetti from 'https://esm.sh/canvas-confetti@1.6.0';
+import confetti from 'canvas-confetti';
 import { useIdentityState } from './hooks/useIdentityState';
 import { FastingMode, FloatingMetric as FloatingMetricType } from './types';
 import { calculateKitchenCloseTime } from './utils/timeUtils';
